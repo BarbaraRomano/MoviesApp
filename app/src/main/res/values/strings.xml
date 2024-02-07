@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">AppFilmes</string>
+    <string name="empty"></string>
+    <string name="passwordRequired">A senha é obrigatória!</string>
+    <string name="emailRequired">O e-mail é obrigatório!</string>
+    <string name="title">Um mundo de séries e filmes \n ilimitados espera por você.</string>
+    <string name="description">Crie uma conta para saber mais sobre \n o nosso App de filmes.</string>
+    <string name="help">AJUDA</string>
+    <string name="login">ENTRAR</string>
+    <string name="title1">Tudo pronto para \n assistir?</string>
+    <string name="provideEmail">Informe o seu e-mail para criar ou acessar sua conta.</string>
+    <string name="email">E-mail</string>
+    <string name="password">Senha</string>
+    <string name="needHelp">Precisa de ajuda?</string>
+    <string name="newHere">Novo por aqui? Inscreva-se agora!</string>
+    <string name="go">Vamos lá!</string>
+    <string name="keep">Continuar</string>
+    <string name="series">Séries</string>
+    <string name="movies">Filmes</string>
+    <string name="logout">Sair</string>
+    <string name="myList">Minha Lista</string>
+    <string name="loading">Carregando</string>
+    <string name="watch">Assistir</string>
+    <string name="info">Saiba mais</string>
+</resources>
